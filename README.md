@@ -65,7 +65,7 @@ Copy code
 ## 🔧 Installation & Setup
 
 ### 1️⃣ Clone the repository  
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone [https://github.com/nandanita251/MovieFlix.git]
 
 2️⃣ Install dependencies
 bash
