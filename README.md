@@ -88,7 +88,6 @@ npm start
 
 📸 Screenshots
 <img width="1910" height="931" alt="Screenshot 2025-09-23 091341" src="https://github.com/user-attachments/assets/06ad01e4-9ac9-4097-a118-f10089d8d27d" />
-<img width="469" height="154" alt="Screenshot 2025-09-23 085600" src="https://github.com/user-attachments/assets/f4db04ac-473f-4f12-ac03-cc3dcfe99e47" />
 <img width="510" height="367" alt="Screenshot 2025-09-23 085452" src="https://github.com/user-attachments/assets/641d36f4-826a-4f08-9680-74a524ab1dd9" />
 <img width="500" height="489" alt="Screenshot 2025-09-23 085413" src="https://github.com/user-attachments/assets/e9d8421c-05e6-4dda-8693-faa61d9eb702" />
 <img width="1919" height="1014" alt="Screenshot 2025-09-23 084952" src="https://github.com/user-attachments/assets/ac30ad72-eef3-48b9-b1cf-8f54fb809e8d" />
